@@ -25,7 +25,7 @@ steps:
   id: DEPLOY
 
 substitutions:
-    _FUNCTION_PROJECT : PROD
+    _FUNCTION_PROJECT : planar-osprey-364814
     _FUNCTION_NAME    : my-nodejs-app
     _FUNCTION_REGION  : northamerica-northeast1
     _FUNCTION_RUNTIME : nodejs14
