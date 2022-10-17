@@ -26,7 +26,7 @@ steps:
 
 substitutions:
     _FUNCTION_PROJECT : planar-osprey-364814
-    _FUNCTION_NAME    : my-nodejs-app
-    _FUNCTION_REGION  : northamerica-northeast1
-    _FUNCTION_RUNTIME : nodejs14
+    _FUNCTION_NAME    : my-prod-webapp
+    _FUNCTION_REGION  : europe-central2
+    _FUNCTION_RUNTIME : nodejs16
     _ENTRY_POINT      : helloWorld
